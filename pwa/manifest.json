@@ -1,13 +1,13 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Sh7ne Page",
+  "short_name": "Sh7ne Blog",
+  "description": "Nothing.",
   "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
+    "src": "favicon/android-chrome-192x192.png",
+    "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
+    "src": "favicon/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
