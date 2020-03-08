@@ -1,7 +1,7 @@
 {
-  "name": "Sh7ne Blog",
-  "short_name": "Sh7ne Blog",
-  "description": "Nothing.",
+  "name": "Hux Blog",
+  "short_name": "Hux Blog",
+  "description": "About an engineer & designer who loves web.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
