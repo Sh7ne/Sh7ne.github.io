@@ -4,7 +4,7 @@ title:      Phonetic Alphabet
 subtitle:   
 date:       2020-03-20 21:00:00
 author:     "Sh7ne"
-header-img: "img/post-bg-002.jpg"
+header-img: "img/post-bg-002.png"
 catalog: true
 tags: Doc
 ---
