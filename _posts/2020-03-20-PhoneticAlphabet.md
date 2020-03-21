@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      "What suggestions would you make to young people (including your younger self) that would help them prepare for the transition from school to work?"
-subtitle:   "RBC Essay"
-date:       2016-12-19 21:00:00
+title:      Phonetic Alphabet
+subtitle:   
+date:       2020-03-20 21:00:00
 author:     "Sh7ne"
-header-img: "img/post-bg-000.jpg"
+header-img: "img/post-bg-002.jpg"
 catalog: true
-tags: Essay Job 
-    draft
+tags: Doc
 ---
 
 # Phonetic Alphabet
