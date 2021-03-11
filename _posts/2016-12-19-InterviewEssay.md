@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "What suggestions would you make to young people (including your younger self) that would help them prepare for the transition from school to work?"
-subtitle:   "RBC Essay"
+subtitle:   "Interview Essay"
 date:       2016-12-19 21:00:00
 author:     "Sh7ne"
 header-img: "img/post-bg-000.jpg"
