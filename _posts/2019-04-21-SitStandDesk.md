@@ -10,7 +10,7 @@ tags: draft DIY
 ---
 
 # 如何自制一个Sit-Stand Desk
-![不知道干啥的图](https://www.posturite.co.uk/media/catalog/product/cache/4/image/1000x/9df78eab33525d08d6e5fb8d27136e95/s/i/sit-stand-desking_illustration_2_8.jpg)
+![不知道干啥的图](https://raw.githubusercontent.com/Sh7ne/Sh7ne.github.io/master/img/standing-desk-vector.jpg)
 
 ### 这是一个写给所有能看得懂并且能买的到文中配套产品的短文章
 
