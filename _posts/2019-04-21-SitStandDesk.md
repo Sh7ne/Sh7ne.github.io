@@ -105,3 +105,5 @@ Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不
 # End
 
 先就这样，望多交流。
+
+[本作品采用署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)进行许可。](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
