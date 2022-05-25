@@ -3,8 +3,8 @@ title: Sh7ne
 SEOTitle: Developer | Sh7ne Blog
 header-img: img/home-bg-o.jpg
 email: Sh7ne@outlook.com
-description: "Designer"
-keyword: "Blog,Design, Frontend, UX, Developer, FullStack, 博客, 个人网站, 互联网, 前端, 设计, 产品"
+description: "Developer"
+keyword: "Blog, Developer, FullStack, 博客, 个人网站, 互联网, 前端, 设计, 产品"
 url: "https://Sh7ne.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     owenshine
 zhihu_username:     UWOSh7ne
 github_username:    Sh7ne
 twitter_username:   UWOSh7ne
-facebook_username:  UWOSh7ne
 linkedin_username:  Sh7ne           #linkedin.com/in/your username here#
 
 
