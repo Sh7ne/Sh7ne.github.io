@@ -4,7 +4,7 @@ SEOTitle: Developer | Sh7ne Blog
 header-img: img/home-bg-o.jpg
 email: Sh7ne@outlook.com
 description: "Developer"
-keyword: "Blog, Developer, FullStack, 博客, 个人网站, 互联网, 前端, 设计, 产品"
+keyword: "Blog, Developer, FullStack, 博客, 个人网站, 互联网, 开发, 设计, 产品"
 url: "https://Sh7ne.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
